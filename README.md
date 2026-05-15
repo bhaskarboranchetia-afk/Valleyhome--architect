@@ -163,5 +163,4 @@ return ( <div className="min-h-screen bg-stone-950 text-stone-100"> {/* Header *
     </div>
   </section>
 </div>
-unzip ValleyHome-Architect-Gold-Luxury.zip
 ); }
